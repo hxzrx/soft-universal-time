@@ -1,6 +1,6 @@
 (defsystem "soft-universal-time"
   :version "1.0.0"
-  :description "Soft Universal Time, get universal time from a global variable "
+  :description "Soft Universal Time, get universal time from a global variable which is updated by a background thread."
   :author "He Xiang-zhi <xz.he@qq.com>"
   :license "MIT"
   :depends-on (:local-time
